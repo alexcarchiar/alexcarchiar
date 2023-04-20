@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Currently building this repo. Reach me at alessandrochiarelli.com for more information!
 <!--
 **alexcarchiar/alexcarchiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
